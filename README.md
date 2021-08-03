@@ -1,1 +1,1 @@
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="#" target="_blank"><img alt="Java" src ="https://img.shields.io/badge/Java-#000000.svg?&style=for-the-badge&logo=Java&logoColor=#000000"/></a>
