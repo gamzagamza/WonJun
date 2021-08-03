@@ -1,4 +1,4 @@
-<h3 align="center">Backend Developer WonJun</h3>
+<h3 align="center">🔗 Backend Developer WonJun 🔗</h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
