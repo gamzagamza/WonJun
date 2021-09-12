@@ -3,7 +3,6 @@
   <a href="https://gamzagamza.github.io"><img src="https://img.shields.io/badge/Blog-FF8800?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp
   <a href="mailto:wonjunyun8899@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
