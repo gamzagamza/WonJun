@@ -1,6 +1,6 @@
 <h3 align="center">🔗 Backend Developer WonJun 🔗</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Blogger-FF8800?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Blog-FF8800?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp 
 </p>
 <br/>
 
