@@ -1,5 +1,5 @@
 <h3 align="center">🔗 Backend Developer WonJun 🔗</h3>
-
+  <img src="https://img.shields.io/badge/Blogger-FF8800?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
 <br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
