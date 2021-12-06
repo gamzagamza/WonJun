@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Docker-00BFFF?style=flat&logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>&nbsp
 </p>
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzagamza&show_icons=true)
