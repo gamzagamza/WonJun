@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Mysql-0431B4?style=flat&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-00BFFF?style=flat&logo=Docker&logoColor=white"/>&nbsp
+</p>
+<p>
   <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>&nbsp
 </p><br/><br/>
 
