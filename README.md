@@ -1,6 +1,5 @@
 <p>
   <a href="https://gamzagamza.github.io"><img src="https://img.shields.io/badge/Blog-FF8800?style=flat&logo=Blogger&logoColor=white"/></a>
-  <a href="https://wonjun-dori.notion.site/2f30a6ffbbea49a1873c0defdd966335"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="mailto:wonjunyun8899@gmail.com"><img src="https://img.shields.io/badge/wonjunyun8899@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>👨‍💻 Hi there, I'm <b>Backend Developer</b></p>
