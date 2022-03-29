@@ -16,6 +16,4 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>&nbsp
-</p><br/><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamzagamza&show_icons=true)
+</p>
